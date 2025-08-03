@@ -16,14 +16,13 @@
 ```bash
 > user:        k1ngcrypt
 > role:        freelance dev + security engineer
-> surface:     minimal
 > location:    127.0.0.1
 > status:      connected
 ````
 
 * 🛠 Contract-based dev + app/infrastructure security
 * 🧩 Full stack work: UI, backend, DevOps, architecture
-* 🧠 Prioritizes clarity, resilience, and low-visibility tooling
+* 🧠 Prioritizing clarity, resilience, and low-visibility tooling
 * 🛰 Asynchronous, independent, remote-friendly
 
 ---
@@ -31,7 +30,7 @@
 ### 🧰 TOOLCHAIN
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,bash,postgres,linux,tailwind,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,bash,postgres,linux,tailwind,vite,git&theme=dark" />
 </p>
 
 ```txt
@@ -80,11 +79,10 @@ infra      → linux · nginx · docker · systemd
 
 ```bash
 [ terminal ]
- uptime:      329 days
+ uptime:      328 days
  os:          arch linux
  processes:   73 sleeping, 2 running
- latency:     4ms
- visibility:  low
+ latency:     3ms
  signal:      steady
 ```
 
