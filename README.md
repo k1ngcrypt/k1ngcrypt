@@ -77,15 +77,6 @@ infra      → linux · nginx · docker · systemd
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=k1ngcrypt&bg_color=000000&color=B062FF&line=B062FF&point=B062FF&area=true&hide_border=true" />
 </p>
 
-```bash
-[ terminal ]
- uptime:      328 days
- os:          arch linux
- processes:   73 sleeping, 2 running
- latency:     3ms
- signal:      steady
-```
-
 ---
 
 ### 📬 CONTACT
