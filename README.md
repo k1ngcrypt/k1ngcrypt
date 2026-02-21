@@ -103,7 +103,3 @@ If you're building something interesting — or breaking something critical — 
 > — k1ngcrypt
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=100&section=footer" />
-</p>
